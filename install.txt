@@ -1,0 +1,4 @@
+pip install tensorboard==1.15.0
+pip install tensorflow==1.15.0
+pip install keras==2.3.1
+pip install setuptools==41.0.0
